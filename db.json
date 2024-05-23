@@ -1,52 +1,22 @@
 {
   "allBooks": [
     {
-      "id": "ba4d",
-      "title": "Adujeevitham",
-      "author": "Benyamin",
-      "quote": "“നാം അനുഭവിക്കാത്ത ജീവിതങ്ങളെല്ലാം നമുക്ക് വെറും കെട്ടുകഥകള്‍ മാത്രമാണ്.”",
-      "genres": "Non Fiction",
-      "coverImage": "https://malayalarajyam.in/wp-content/uploads/2019/06/Aadujeevitham-malaylam-novel.jpg",
-      "review": "ലക്ഷകണക്കിനു മലയാളികള്‍ ഗള്‍ഫില്‍ ജീവിക്കുന്നു, ലക്ഷങ്ങള്‍ ജീവിച്ചു തിരിച്ചു പോയിരിക്കുന്നു. ഇതില്‍ എത്ര പേര്‍ മരുഭൂമിയുടെ തീക്ഷ്‌ണത സത്യമായും അനുഭവിച്ചിട്ടുണ്ട്. ആ തീക്ഷ്ണത തൊട്ടറിഞ്ഞ, അഥവാ മണല്‍‌പരപ്പിലെ ജീവിതം ചുട്ടുപൊള്ളിച്ച നജീബ് എന്നയാളുടെ അനുഭവമാണ് ആടുജീവിതത്തിനു പ്രേരണയായതെന്ന് നോവലിസ്‌റ്റ് ബെന്യാമിന്‍ പറയുന്നു. പ്രവാസജീവിതത്തിലെ തികച്ചും വ്യത്യസ്‌തമായ ഒരേട്.",
-      "completedDate": "2024-05-14"
-    },
-    {
       "id": "5dae",
       "title": "The Alchemist",
       "author": "Paulo Coelho",
-      "quote": "“And, when you want something, all the universe conspires in helping you to achieve it.”",
+      "quote": "And, when you want something, all the universe conspires in helping you to achieve it.",
       "genres": "Fiction",
       "coverImage": "https://1.bp.blogspot.com/-NhWO3871_aI/XV0EV-X8oWI/AAAAAAAAANs/a4-Y70skbT0TgZVEpPBmSo0W0f3PWWfxgCLcBGAs/s1600/The%2BAlchemist%2BBook%2BCover.jpg",
       "review": "Paulo Coelho's masterpiece tells the mystical story of Santiago, an Andalusian shepherd boy who yearns to travel in search of a worldly treasure. His quest will lead him to riches far different—and far more satisfying—than he ever imagined. Santiago's journey teaches us about the essential wisdom of listening to our hearts, recognizing opportunity and learning to read the omens strewn along life's path, and, most importantly, following our dreams.",
       "completedDate": "2024-05-08"
     },
     {
-      "id": "1f7a",
-      "title": "King Lear",
-      "author": "William Shakespeare",
-      "quote": "“When we are born, we cry that we are come to this great stage of fools.” ",
-      "genres": "Fiction",
-      "coverImage": "https://images.thenile.io/r1000/9781853260957.jpg",
-      "review": "Shakespeare’s King Lear challenges us with the magnitude, intensity, and sheer duration of the pain that it represents. Its figures harden their hearts, engage in violence, or try to alleviate the suffering of others. Lear himself rages until his sanity cracks. What, then, keeps bringing us back to King Lear? For all the force of its language, King Lear is almost equally powerful when translated, suggesting that it is the story, in large part, that draws us to the play.\n\nThe play tells us about families struggling between greed and cruelty, on the one hand, and support and consolation, on the other. Emotions are extreme, magnified to gigantic proportions. We also see old age portrayed in all its vulnerability, pride, and, perhaps, wisdom—one reason this most devastating of Shakespeare’s tragedies is also perhaps his most moving.",
-      "completedDate": "2019-06-11"
-    },
-    {
-      "id": "501f",
-      "title": "Gulliver’s Travels",
-      "author": "Jonathan Swift",
-      "quote": "“Every man desires to live long, but no man wishes to be old.”",
-      "genres": "Fiction",
-      "coverImage": "https://bookquoters.com/i/book/fl/c/af/321.jpg",
-      "review": "A wickedly clever satire uses comic inversions to offer telling insights into the nature of man and society. Nominated as one of America’s best-loved novels by PBS’s The Great American Read.\n\nGulliver's Travels describes the four voyages of Lemuel Gulliver, a ship's surgeon. In Lilliput he discovers a world in miniature; towering over the people and their city, he is able to view their society from the viewpoint of a god. However, in Brobdingnag, a land of giants, tiny Gulliver himself comes under observation, exhibited as a curiosity at markets and fairs. In Laputa, a flying island, he encounters a society of speculators and projectors who have lost all grip on everyday reality; while they plan and calculate, their country lies in ruins. Gulliver's final voyage takes him to the land of the Houyhnhnms, gentle horses whom he quickly comes to admire - in contrast to the Yahoos, filthy bestial creatures who bear a disturbing resemblance to humans. This text, based on the first edition of 1726, reproduces all the original illustrations and includes an introduction by Robert Demaria, Jr, which discusses the ways Gulliver's Travels has been interpreted since its first publication. Jonathan Swift (1667-1745) was born in Dublin.\n",
-      "completedDate": "2015-01-04"
-    },
-    {
       "id": "4938",
       "title": "Khasakinte Ithihasam",
       "author": " O. V. Vijayan",
-      "quote": "“മന്ദാരത്തിന്റെ ഇലകൾ ചേർത്തുതുന്നിയ ഈ പുനർജനിയുടെ കൂടുവിട്ട്‌ ഞാൻ വീണ്ടും യാത്രയാകുന്നു.”",
+      "quote": "മന്ദാരത്തിന്റെ ഇലകൾ ചേർത്തുതുന്നിയ ഈ പുനർജനിയുടെ കൂടുവിട്ട്‌ ഞാൻ വീണ്ടും യാത്രയാകുന്നു.",
       "genres": "Fiction",
-      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462709894i/2623267._UY475_SS475_.jpg",
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462709894l/2623267.jpg",
       "review": "A restlessness born of guilt and despair leads Ravi to embark on a journey that ends in the remote village of Khasak in the picturesque Palghat countryside in Kerala. A land from the past, potent with dreams and legends, enfolds the traveller in a powerful and unsettling embrace. Ravi is bewitched and entranced as everything around him-the villagers; their children whom he teaches in a makeshift school; the elders who see him as a threat; the toddy-tappers; the shamans-takes on the quality of myth. And then reality, painful and threatening, begins to intrude on the sojourner's resting place and Ravi begins to understand that there is no escape from the relentless dictates of karma... Often poetic and dark, always complex and rich, The Legends of Khasak, O.V. Vijayan's much-acclaimed first novel, translated into English by the author, is an extraordinary achievement",
       "completedDate": "2018-05-11"
     },
@@ -54,21 +24,31 @@
       "id": "5c65",
       "title": "Premalekhanam",
       "author": "Vaikom Muhammad Basheer",
-      "quote": "“പ്രിയപ്പെട്ട സാറാമ്മേ, ജീവിതം യൗവനതീക്ഷ്ണവും ഹൃദയം പ്രേമസുരഭിലവുമായിരിക്കുന്ന ഈ അസുലഭകാലഘട്ടത്തെ എന്‍റെ പ്രിയ സുഹൃത്ത്‌ എങ്ങനെ വിനിയോഗിക്കുന്നു? ഞാനാണെങ്കില്‍...... എന്‍റെ ജീവിതത്തിലെ നിമിഷങ്ങളോരോന്നും സാറാമ്മയോടുള്ള പ്രേമത്തില്‍ കഴിയുകയാണ് . സാറാമ്മയോ? ഗാഢമായി ചിന്തിച്ച് മധുരോദാരമായ ഒരു മറുപടിയില്‍ എന്നെ അനുഗ്രഹിക്കണമെന്ന് അഭ്യര്‍ത്ഥിച്ചുകൊണ്ട് . സാറാമ്മയുടെ കേശവന്‍ നായര്‍”",
+      "quote": "പ്രിയപ്പെട്ട സാറാമ്മേ, ജീവിതം യൗവനതീക്ഷ്ണവും ഹൃദയം പ്രേമസുരഭിലവുമായിരിക്കുന്ന ഈ അസുലഭകാലഘട്ടത്തെ എന്‍റെ പ്രിയ സുഹൃത്ത്‌ എങ്ങനെ വിനിയോഗിക്കുന്നു? ഞാനാണെങ്കില്‍...... എന്‍റെ ജീവിതത്തിലെ നിമിഷങ്ങളോരോന്നും സാറാമ്മയോടുള്ള പ്രേമത്തില്‍ കഴിയുകയാണ് . സാറാമ്മയോ? ഗാഢമായി ചിന്തിച്ച് മധുരോദാരമായ ഒരു മറുപടിയില്‍ എന്നെ അനുഗ്രഹിക്കണമെന്ന് അഭ്യര്‍ത്ഥിച്ചുകൊണ്ട് . സാറാമ്മയുടെ കേശവന്‍ നായര്‍",
       "genres": "Fiction",
       "coverImage": "https://m.media-amazon.com/images/I/41TMsXTdOfL.jpg",
       "review": "Kesavan Nair has fallen head over heels for Saramma, his house owner’s daughter; Saramma on the other hand is in total denial and sarcastic about his attempts. \n\nThe book gets its title aptly so from the love letter (premalekhanam) written by Kesavan Nair to Saramma, which marks the beginning and end of the story. Saramma has a hard life because of her uncaring father and cruel stepmother. She is educated and deep-down hope to gain a job for herself to live a decent life.\n\nWhen Saramma requests Kesavan Nair to find her a job, he obliges immediately and offers her the “job of loving him” with a monthly salary of Rs 20. Saramma accepts the offer, but at the same time one day when Kesavan Nair tries to be over-friendly she retorts with a “that’s not part of the deal”. \n\nKesavan Nair continues his futile attempts to open up his heart which is like a scent bottle filled with love for Saramma, but each time she evades it with her wittiness. The story concludes with Kesavan Nair deciding to leave his rented apartment after getting a better job and what eventually happens to his unrequited love.",
       "completedDate": "2012-12-20"
     },
     {
-      "id": "27ff",
-      "title": "QWS",
+      "id": "149b",
+      "title": "Gulliver’s Travels",
+      "author": "Jonathan Swift",
+      "quote": "“Every man desires to live long, but no man wishes to be old.”",
+      "genres": "Fiction",
+      "coverImage": "https://bookquoters.com/i/book/fl/c/af/321.jpg",
+      "review": "Gulliver's Travels describes the four voyages of Lemuel Gulliver, a ship's surgeon. In Lilliput he discovers a world in miniature; towering over the people and their city, he is able to view their society from the viewpoint of a god. However, in Brobdingnag, a land of giants, tiny Gulliver himself comes under observation, exhibited as a curiosity at markets and fairs. In Laputa, a flying island, he encounters a society of speculators and projectors who have lost all grip on everyday reality; while they plan and calculate, their country lies in ruins. Gulliver's final voyage takes him to the land of the Houyhnhnms, gentle horses whom he quickly comes to admire - in contrast to the Yahoos, filthy bestial creatures who bear a disturbing resemblance to humans. This text, based on the first edition of 1726, reproduces all the original illustrations and includes an introduction by Robert Demaria, Jr, which discusses the ways Gulliver's Travels has been interpreted since its first publication. Jonathan Swift (1667-1745) was born in Dublin.",
+      "completedDate": "2023-06-20"
+    },
+    {
+      "id": "b8fa",
+      "title": "Adujeevitham",
       "author": "Benyamin",
       "quote": "“നാം അനുഭവിക്കാത്ത ജീവിതങ്ങളെല്ലാം നമുക്ക് വെറും കെട്ടുകഥകള്‍ മാത്രമാണ്.”",
       "genres": "Non Fiction",
-      "coverImage": "ssdf",
-      "review": "ty",
-      "completedDate": "2024-05-01"
+      "coverImage": "https://malayalarajyam.in/wp-content/uploads/2019/06/Aadujeevitham-malaylam-novel.jpg",
+      "review": "ലക്ഷകണക്കിനു മലയാളികള്‍ ഗള്‍ഫില്‍ ജീവിക്കുന്നു, ലക്ഷങ്ങള്‍ ജീവിച്ചു തിരിച്ചു പോയിരിക്കുന്നു. ഇതില്‍ എത്ര പേര്‍ മരുഭൂമിയുടെ തീക്ഷ്‌ണത സത്യമായും അനുഭവിച്ചിട്ടുണ്ട്. ആ തീക്ഷ്ണത തൊട്ടറിഞ്ഞ, അഥവാ മണല്‍‌പരപ്പിലെ ജീവിതം ചുട്ടുപൊള്ളിച്ച നജീബ് എന്നയാളുടെ അനുഭവമാണ് ആടുജീവിതത്തിനു പ്രേരണയായതെന്ന് നോവലിസ്‌റ്റ് ബെന്യാമിന്‍ പറയുന്നു. പ്രവാസജീവിതത്തിലെ തികച്ചും വ്യത്യസ്‌തമായ ഒരേട്.",
+      "completedDate": "2023-02-07"
     }
   ]
 }
